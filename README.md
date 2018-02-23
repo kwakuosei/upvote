@@ -1,3 +1,11 @@
+Hi All,
+
+This is this the initial source for the upVote project. It is shamelessly stolen from the Vulcan project (detailed below). It will be updated as the site grows and our needs diverge from Vulcan.
+
+NomadaNare
+
+Original Vulcan Readme Starting Below:
+
 <img src="https://d3vv6lp55qjaqc.cloudfront.net/items/2B3C1z2V2y421p2I0P42/vulcan-logo-noborder.png" width="200">
 
 # Vulcan
