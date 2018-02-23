@@ -5,7 +5,7 @@ import { Comments } from '../../modules/comments/index.js';
 import { Categories } from '../../modules/categories/index.js';
 import Users from 'meteor/vulcan:users';
 
-registerSetting('forum.seedOnStart', true, 'Seed the app with dummy content on startup');
+registerSetting('forum.seedOnStart', false, 'Seed the app with dummy content on startup');
 
 if (getSetting('forum.seedOnStart')) {
 
